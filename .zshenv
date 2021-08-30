@@ -1,1 +1,1 @@
-ZDOTDIR=/home/liam/.config/zsh
+ZDOTDIR=$HOME/.config/zsh

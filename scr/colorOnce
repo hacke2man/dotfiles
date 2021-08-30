@@ -1,5 +1,0 @@
-#!/bin/sh
-
-/bin/echo -n -e "\033[0;$1m"
-cat -
-/bin/echo -n -e "\033[0;0m"

@@ -1,5 +1,4 @@
 # dotfiles
-look at all those configs
+At the moment this is empty, but I plan to put some stuff back in here.
 
-# about
-basically watch me try and use a bunch of mimimalistic-ish software.
+Most of my config is in my zsh/nvim repo.

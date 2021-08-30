@@ -1,7 +1,0 @@
-#!/bin/sh
-
-bookmark=`cat $HOME/Bookmarks | dmenu -l 100 -p Bookmark | cut -d" " -f2`
-
-if [ -n "$bookmark" ]; then
-  alacritty -e lynx -vikeys ${bookmark}
-fi

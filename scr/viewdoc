@@ -1,5 +1,0 @@
-#!/bin/sh
-
-selection=`ls -1 ~/docs | dmenu $DMENU_DEFAULT_OPTS`
-
-zathura ~/docs/$selection
